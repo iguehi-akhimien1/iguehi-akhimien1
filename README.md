@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is my new GitHub account. I lost access to my [old account](https://github.com/iguehi-akhimien)
 Welcome to my GitHub! My name is Iguehi Akhimien. I am a third year student at the University of Toronto, studying Cognitive Science (Computational Cognition stream), Computer Science and Mathematics.
 
 Here are some ideas to get you started:
